@@ -1,0 +1,10 @@
+{
+    "name"    : "webapps-jquery-lightbox-lib", 
+    "version" : "0.1.0",
+    "classes" : ["JQueryLightBox"],
+    "static"  : ["jquery-lightbox"],
+    "deps"    : [
+        "webapps-framework-lib",
+	"webapps-jquery-lib"
+    ]
+}
